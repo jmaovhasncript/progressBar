@@ -1,13 +1,13 @@
 {
-  "main.css": "/progressBar/build/static/css/main.7c6f8b53.chunk.css",
-  "main.js": "/progressBar/build/static/js/main.ce18bf35.chunk.js",
-  "main.js.map": "/progressBar/build/static/js/main.ce18bf35.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/progressBar/build/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/progressBar/build/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/progressBar/build/static/js/runtime~main.ee43c309.js",
-  "runtime~main.js.map": "/progressBar/build/static/js/runtime~main.ee43c309.js.map",
-  "static/css/main.7c6f8b53.chunk.css.map": "/progressBar/build/static/css/main.7c6f8b53.chunk.css.map",
-  "index.html": "/progressBar/build/index.html",
-  "precache-manifest.4783168718b40400e77f12dc7379074a.js": "/progressBar/build/precache-manifest.4783168718b40400e77f12dc7379074a.js",
-  "service-worker.js": "/progressBar/build/service-worker.js"
+  "main.css": "/build/static/css/main.7c6f8b53.chunk.css",
+  "main.js": "/build/static/js/main.ce18bf35.chunk.js",
+  "main.js.map": "/build/static/js/main.ce18bf35.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/build/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/build/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/build/static/js/runtime~main.3923d73d.js",
+  "runtime~main.js.map": "/build/static/js/runtime~main.3923d73d.js.map",
+  "static/css/main.7c6f8b53.chunk.css.map": "/build/static/css/main.7c6f8b53.chunk.css.map",
+  "index.html": "/build/index.html",
+  "precache-manifest.007ec05d53d71ab4a21650a31fce1144.js": "/build/precache-manifest.007ec05d53d71ab4a21650a31fce1144.js",
+  "service-worker.js": "/build/service-worker.js"
 }
